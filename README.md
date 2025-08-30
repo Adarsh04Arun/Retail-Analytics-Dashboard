@@ -5,8 +5,6 @@ Data science and machine learning are very much applicable in such huge and vari
 
 Market Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy. Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.
 
-**Codelabs Report Link:** https://codelabs-preview.appspot.com/?file_id=1VQ5vytQq5Jt9ZrE-Gy3NCV3zN8MX0Pq5mishS0GTDDo#0
-
 ## Usage Guide
 - To run the application run the following command on terminal:
 ```
@@ -38,17 +36,7 @@ Goal is to create an interface with an interactive dashboard, along with recomme
   - **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. 
   - **Country**: Country name. Nominal, the name of the country where each customer 
 
-## Streamlit
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-1.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-2.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-3.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-4.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-5.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-6.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-7.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-8.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-9.PNG" height = "400" width="600">
-<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-10.PNG" height = "400" width="600">
+
 
 ## References
 - https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
